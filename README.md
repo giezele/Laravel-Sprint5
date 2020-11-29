@@ -39,5 +39,5 @@ Information System for travel agency:
 11. LOGIN Pass --> admin
 12. In case of success you will see this:
 
-    <img src="https://user-images.githubusercontent.com/26652268/100551481-82205f00-3289-11eb-91dc-99dd234499a4.png" width="300">
+    <img src="https://user-images.githubusercontent.com/26652268/100551481-82205f00-3289-11eb-91dc-99dd234499a4.png" width="600">
 
