@@ -26,7 +26,7 @@
             @foreach ($countries as $country)
             <tr>
                 <td>{{ $country->title }}</td>
-                <td>{{ $country->description }}</td>
+                <td>{!! $country->description !!}</td>
                 <td>{{ $country->distance }}</td>
                 <td>
                     <form action={{ route('country.destroy', $country->id) }} method="POST">
