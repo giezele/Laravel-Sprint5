@@ -18,15 +18,13 @@ Information System for travel agency:
 
 ## Setup
 
-1. In localhost directory run CLI comand `php composer.phar create-project laravel/laravel choose_name}`
-2. Inside your new-app-directory run CLI commands:
+1. In localhost directory run CLI comand `php composer.phar create-project laravel/laravel {choose_name}`
+2. Inside your new {choose_name} directory run CLI commands one after another:
 
 ```
-    - php composer.phar require laravel/ui
-
-    - php artisan ui vue --auth
-
-    - npm install && npm run dev
+    php ../composer.phar require laravel/ui
+    php artisan ui vue --auth
+    npm install && npm run dev
 ```
 
 3. Clone this repository `https://github.com/giezele/Laravel-Sprint5`
