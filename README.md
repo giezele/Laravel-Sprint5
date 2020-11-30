@@ -18,7 +18,7 @@ Information System for travel agency:
 
 ## Setup
 
-1. In localhost directory run CLI comand `php composer.phar laravel/laravel {choose_name_of_your_project_directory}`
+1. In localhost directory run CLI comand `php composer.phar laravel/laravel {choose_name}`
 2. Inside your new-app-directory run CLI commands:
 
 ```
